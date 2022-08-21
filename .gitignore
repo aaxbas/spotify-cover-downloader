@@ -1,0 +1,8 @@
+Covers
+.env
+spenv
+venv
+env
+.cache
+
+__pycache__
